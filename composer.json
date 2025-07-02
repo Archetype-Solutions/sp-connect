@@ -1,0 +1,12 @@
+{
+    "name": "dani-j-d/sp-connect",
+    "description": "Sunny Portal Connect WordPress Plugin",
+    "type": "wordpress-plugin",
+    "autoload": {
+      "psr-4": {
+        "SPC\\": "includes/"
+      }
+    },
+    "require": {}
+  }
+  
